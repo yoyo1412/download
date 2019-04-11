@@ -1,5 +1,5 @@
 
-## <a href="https://github.com/foye2019/fotiaoqiang/releases">佛跳墙（fotiaoqiang）最新版本下载点击这里</a>
+## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang</a>
 - <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang-android-v1.0.0.apk">Android</a>
 - <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang-win32-1.0.0.zip">Windows</a>
 - <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang_mac_darwin_amd64_installv1.0.0.dmg">Mac</a>
