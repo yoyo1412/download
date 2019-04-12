@@ -11,4 +11,4 @@
 - https://fotiaoqiang.io
 
 
-## <a href="#">FAQ</a>
+## <a href="https://github.com/getfotiaoqiang/fotiaoqiang/wiki/FAQ">FAQ</a>
