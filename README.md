@@ -1,16 +1,14 @@
 
 ## 佛跳墙（fotiaoqiang）最新版本下载 Latest version of fotiaoqiang</a>
-- <a href="https://github.com/getfotiaoqiang/download/releases">佛跳墙最新版本下载请点击这里 Click here for most updated version of fotiaoqiang </a>
-- <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang-android-v1.0.0.apk">Android</a>
-- <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang-win32-1.0.0.zip">Windows</a>
-- <a href="https://github.com/foye2019/fotiaoqiang/releases/download/1.0.0/fotiaoqiang_mac_darwin_amd64_installv1.0.0.dmg">Mac</a>
-
+## <a href="https://github.com/getfotiaoqiang/download/releases"> 佛跳墙最新版本下载请点击这里 Latest version of fotiaoqiang</a>
+## 各个平台安装包下载
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/v1.0.0/fotiaoqiang_android_v1.0.0.apk"> Android </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/v1.0.0/fotiaoqiang_win32_v1.0.0.zip"> Windows </a>
+- <a href="https://github.com/getfotiaoqiang/download/releases/download/v1.0.0/fotiaoqiang_macos_amd64_install_v1.0.0.dmg"> Mac OS </a>
+- IOS 敬请期待
 
 ## 官方网站
 - https://fotiaoqiang.io
 
 
-## 常见问题
-- 请勿使用国产的杀毒软件，会干扰翻墙软件。
-- 请勿使用360 腾讯 等国产浏览器
-- 请使用管理员权限安装和启动
+## <a href="#">FAQ</a>
